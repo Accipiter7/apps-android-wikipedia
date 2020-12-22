@@ -880,6 +880,8 @@
     <item quantity="many">Před %d lety</item>
     <item quantity="other">Před %d lety</item>
   </plurals>
+  <string name="on_this_day_end_of_scroll_message">Cestovali jste časem 🚀</string>
+  <string name="on_this_day_back_to_future">Zpátky do budoucnosti</string>
   <string name="languages_list_activity_title">Přidat jazyk</string>
   <string name="languages_list_suggested_text">Doporučeno</string>
   <string name="languages_list_all_text">Všechny jazyky</string>

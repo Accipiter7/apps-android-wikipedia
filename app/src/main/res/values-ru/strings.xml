@@ -50,6 +50,7 @@
 * Stjn
 * Teretalexev
 * ToJack
+* VitalKanev
 * Vlad5250
 * Wikisaurus
 * WindEwriX
@@ -744,6 +745,7 @@
   <string name="suggested_edits_image_preview_dialog_more_info">Подробнее</string>
   <string name="suggested_edits_image_preview_dialog_file_page_link_text">Страница файла на Викискладе</string>
   <string name="suggested_edits_image_preview_dialog_file_page_wikipedia_link_text">Страница файла в Википедии</string>
+  <string name="suggested_edits_article_cta_image_tags">Добавить тэги к изображению</string>
   <string name="suggested_edits_article_cta_image_caption">Добавить описание изображения</string>
   <string name="suggested_edits_article_cta_image_caption_in_language">Добавить описание изображения (%s)</string>
   <string name="suggested_edits_article_cta_snackbar_action">Просмотр</string>
