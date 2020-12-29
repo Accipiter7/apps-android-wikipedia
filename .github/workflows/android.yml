@@ -39,7 +39,7 @@ jobs:
         tag_name: latest
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - uses: ncipollo/release-action@main
+    - uses: ncipollo/release-action@v1
       name: Create release and upload artifacts
       with:
         name: latest
